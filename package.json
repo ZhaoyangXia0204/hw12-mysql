@@ -1,0 +1,23 @@
+{
+  "name": "hw12-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhaoyangXia0204/hw12-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhaoyangXia0204/hw12-mysql/issues"
+  },
+  "homepage": "https://github.com/ZhaoyangXia0204/hw12-mysql#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
+  }
+}
